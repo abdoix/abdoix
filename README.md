@@ -1,15 +1,29 @@
-### Hi there 👋, my name is Abdellah
+### Hi there, I'm [Abdo!](https://webabdo.netlify.app/) 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-homrani-ix/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdella11217542)
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://webabdo.netlify.app/)
+<img class="img" src="https://gpvc.arturio.dev/abdoix" />
+<br/>
 #### I am Full Stack Laravel | Vuejs Developer
 
+**Language and Tools:** 
 
-Skills: PHP / LARAVEL / REDIS / PHPUnit / Linux / Git / VUE JS  / JS / HTML / CSS
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg"></code>
 
-- 🔭 I’m currently working on this page. 
+
+
+- 🔭 I'm currently working on an order tracking app.
 - 🌱 I’m currently learning Docker to improve my environment skills. 
 - 📫 How to reach me: homrani.abdollah.business@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdoix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdellah-homrani-ix//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webabdo.netlify.app/)
 
 <div align="center" style="display: flex; flex-direction: row;">
  <img class="img" styla="border: none;outline: none"
@@ -19,4 +33,3 @@ Skills: PHP / LARAVEL / REDIS / PHPUnit / Linux / Git / VUE JS  / JS / HTML / CS
 </div>
 
 
-<img class="img" src="https://gpvc.arturio.dev/abdoix" />
