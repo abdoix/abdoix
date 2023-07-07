@@ -21,7 +21,7 @@
 
 <!-- - 🔭 I'm currently working on an order tracking app.
 - 🌱 I’m currently learning Docker to improve my environment skills. -->
-- 📫 How to reach me: homrani.abdollah.business@gmail.com 
+📫 How to reach me: homrani.abdollah.business@gmail.com 
 
 <!--
 <div align="center" style="display: flex; flex-direction: row;">
