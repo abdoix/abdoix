@@ -2,10 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-homrani-ix/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdella11217542)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://webabdo.netlify.app/)
-<img class="img" src="https://gpvc.arturio.dev/abdoix" />
 <br/>
-#### I am Full Stack Laravel | Vuejs Developer
-
+#### I am PHP/Laravel :stars:
+<!--
 **Language and Tools:** 
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
@@ -18,18 +17,17 @@
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg"></code>
 
+-->
 
-
-- 🔭 I'm currently working on an order tracking app.
-- 🌱 I’m currently learning Docker to improve my environment skills. 
+<!-- - 🔭 I'm currently working on an order tracking app.
+- 🌱 I’m currently learning Docker to improve my environment skills. -->
 - 📫 How to reach me: homrani.abdollah.business@gmail.com 
 
-
+<!--
 <div align="center" style="display: flex; flex-direction: row;">
  <img class="img" styla="border: none;outline: none"
       src="https://github-readme-stats.vercel.app/api?username=abdoix&show_icons=true&theme=radical"/>
  <img class="img" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoix&theme=radical&layout=compact" />
 </div>
-
-
+-->
