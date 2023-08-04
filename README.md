@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abdo!](https://webabdo.netlify.app/) 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-homrani-ix/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdella11217542)
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://webabdo.netlify.app/)
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://abdoix.tech)
 <br/>
 #### I am PHP/Laravel :stars:
 <!--
