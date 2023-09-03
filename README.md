@@ -5,10 +5,19 @@
 <br/>
 
 
-<meta charset="utf-8">
-<title>Redirecting to https://example.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://example.com/">
-<link rel="canonical" href="https://example.com/">
+<!DOCTYPE HTML>                                                                 
+<html lang="en">                                                                
+    <head>                                                                      
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0;url={{THE_NEW_URL}}" />       
+        <link rel="canonical" href="https://opensource.com/%7B%7BTHE_NEW_URL%7D%7D" />                     
+    </head>                                                                                                                                                                   
+    <body>                                                                      
+        <h1>                                                                    
+            The page been moved to <a href="https://opensource.com/%7B%7BTHE_NEW_URL%7D%7D">{{THE_NEW_URL}}</a>
+        </h1>                                                                   
+    </body>                                                                     
+</html>
 
 
 
