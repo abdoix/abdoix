@@ -3,6 +3,15 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdella11217542)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://abdoix.tech)
 <br/>
+
+
+<meta charset="utf-8">
+<title>Redirecting to https://example.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://example.com/">
+<link rel="canonical" href="https://example.com/">
+
+
+
 #### I am PHP/Laravel :stars:
 <!--
 **Language and Tools:** 
