@@ -6,7 +6,7 @@
 
 
 
-#### I am PHP/Laravel :stars:
+#### I'm a PHP/Laravel Developer :stars:
 <!--
 **Language and Tools:** 
 
